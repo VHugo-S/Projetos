@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoSemestre</string>
+    <string name="textTituloIntro">ACOMPANHE OS MELHORES FILMES</string>
+    <string name="textTituloIntro2">LEMBRE A DATA DO PRÓXIMO LANÇAMENTO</string>
+    <string name="textTituloIntro3">DESCUBRA SEU NOVO FILME FAVORITO</string>
+    <string name="button_comeca">COMEÇAR</string>
+</resources>
