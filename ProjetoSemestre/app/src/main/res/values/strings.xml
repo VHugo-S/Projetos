@@ -4,4 +4,21 @@
     <string name="textTituloIntro2">LEMBRE A DATA DO PRÓXIMO LANÇAMENTO</string>
     <string name="textTituloIntro3">DESCUBRA SEU NOVO FILME FAVORITO</string>
     <string name="button_comeca">COMEÇAR</string>
+    <string name="nomeFilme">THE SUICIDE SQUAD</string>
+    <string name="anoFilme">2021</string>
+    <string name="direcaoFilme">Diretor - James Gunn</string>
+    <string name="elencoFilme">Viola Davis, Margot Robbie, Idris Elba, Joel Kinnaman, John Cena, Jai Courtney,  Sylvester Stallone, Peter Capaldi...</string>
+    <string name="genFilme">Ação, Comédia, Aventura</string>
+    <string name="sinopseFilme">O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.</string>
+    <string name="comenFilme">Comentários</string>
+    <string name="buttonOk">OK</string>
+    <string name="dispFilme">Onde assistir:</string>
+    <string name="lugarFilme">HBO MAX; Cinemas</string>
+    <string name="thirdAFilme">Principais Filmes para você</string>
+    <string name="thirdAAFilme">Filmes em Alta</string>
+    <string name="buttonOk2">OK</string>
+    <string name="buttonFinal">Finalizar</string>
+    <string name="textFavorito">Filmes Favoritos</string>
+    <string name="textFilmesAssistidos">Filmes Assistidos</string>
+    <string name="perfilNome">VICTOR</string>
 </resources>
