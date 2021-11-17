@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FilmesTeste</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="entrar">Entrar</string>
+    <string name="bt_cadastro">Cadastrar</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="textTituloIntro">ACOMPANHE OS MELHORES FILMES</string>
+    <string name="textTituloIntro2">LEMBRE A DATA DO PRÓXIMO LANÇAMENTO</string>
+    <string name="textTituloIntro3">DESCUBRA SEU NOVO FILME FAVORITO</string>
+</resources>

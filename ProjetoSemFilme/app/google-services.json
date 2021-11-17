@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292218034704",
+    "project_id": "projeto-filmes-73e45",
+    "storage_bucket": "projeto-filmes-73e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292218034704:android:23ca7e2a63faa9698c4895",
+        "android_client_info": {
+          "package_name": "com.example.filmesteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292218034704-0m2d79ge5cpj7aviqjl9c49rkp3sre6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuyUXprNdJk0Oj2uyMG0MT9O_seSKE10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292218034704-0m2d79ge5cpj7aviqjl9c49rkp3sre6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
